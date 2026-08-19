@@ -181,10 +181,10 @@ vision-based-multicolor-line-follower/
 ├── LICENSE
 ├── requirements.txt
 |
-├── python/
-|   ├── red_line_follower.py
-|   ├── green_line_follower.py
-|   └── black_line_follower.py
+├── Python/
+|   ├── Red line follower.py
+|   ├── Green line follower.py
+|   └── Black line follower.py
 |
 ├── esp32/
 |   └── motor_controller.ino
