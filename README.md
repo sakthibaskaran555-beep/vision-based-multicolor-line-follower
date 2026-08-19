@@ -189,11 +189,11 @@ vision-based-multicolor-line-follower/
 ├── esp32/
 |   └── motor_controller.ino
 |
-├── images/
-|   └── robot.jpg
+├── line_follower_1.jpg
 |
-└── videos/
-    └── robot-demo.mp4
+├── line_follower_2.jpg
+|
+└── line_follower_demo.mp4
 ```
 
 ## Installation
